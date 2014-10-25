@@ -1,0 +1,7 @@
+name: SignLicensing
+author: IProBev
+version: 1.0
+description: Allows players to buy Licenses to banned items 
+main: me.IProBev.SignLicensing.Main
+depend: [Vault]
+commands:
